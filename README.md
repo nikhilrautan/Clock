@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Clock App
 
 A minimalist **Timer** and **Stopwatch** app built with React, featuring an animated analog clock visualization, iOS-style scroll-wheel input, and a dark/light theme toggle.
@@ -62,3 +63,6 @@ clock-app/
         └── format.js           # fmt(seconds) → "hh:mm:ss"
 ```
 
+=======
+# Portfolio
+>>>>>>> f1a38fa68433d4b2ab4b264c5bfcb676076bcad7
