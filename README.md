@@ -5,11 +5,6 @@ A minimalist **Timer** and **Stopwatch** app built with React, featuring an anim
 
 ---
 
-## Site Link:
-link:  [TicTacToe-Game]()
-
----
-
 ## Core Logic Flow
 
 The app operates on a clean unidirectional data flow, keeping the UI perfectly in sync with the running state at all times.
@@ -62,7 +57,3 @@ clock-app/
         ├── clockDraw.js        # paintClock, paintHand, prand — pure canvas functions
         └── format.js           # fmt(seconds) → "hh:mm:ss"
 ```
-
-=======
-# Portfolio
->>>>>>> f1a38fa68433d4b2ab4b264c5bfcb676076bcad7
